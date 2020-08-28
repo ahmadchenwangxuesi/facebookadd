@@ -8,5 +8,5 @@ $ apt install python git
 $ python3 -m pip install requests bs4
 $ git clone https://github.com/ahmadchenwangxuesi/facebookadd.git
 $ cd facebookadd
-$ python run.py
+$ python3 run.py
 ```
